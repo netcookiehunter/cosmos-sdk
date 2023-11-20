@@ -17,3 +17,7 @@ In terms of the Cosmos-SDK dependency, we adhere to a simpler versioning approac
 <p align="center">
   <img src="docs/static/img/0ver.png?raw=true" alt="Releases 0ver decision tree" width="40%" />
 </p>
+
+<p align="center">
+  <img src="docs/static/img/0ver.png?raw=true" alt="Releases 0ver decision tree" width="40%" />
+</p>
